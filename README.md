@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Youssef Lahssini. I am a passionate Front-end developer. My passion is to discover technologies by creating demos to learn.
 
+💻 I’m currently working at Flyer.be as Developer Front-end. for my free time, i’m learning Dart & Flutter 📚.
+
+Stay tuned!
 <!--
 **ylahssini/ylahssini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
