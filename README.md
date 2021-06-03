@@ -20,6 +20,7 @@ My name is Youssef Lahssini. I am a passionate Front-end developer. My passion i
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Dart](https://img.shields.io/badge/Dart-learning-blue?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/Flutter-learning-blue?style=flat-square&logo=flutter)
+![Angular](https://img.shields.io/badge/-Angular-learning?style=flat-square&logo=angualr)
 
 
 ## 💻 My status
