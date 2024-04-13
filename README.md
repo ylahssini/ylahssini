@@ -21,7 +21,7 @@ My name is Youssef Lahssini. I am a passionate Front-end developer. My passion i
 
 
 ## 💻 My status
-I’m currently working at Flyer Originals as Developer Front-end.
+I’m currently working at Flyer Original as Developer Front-end.
 
 <!--
 ## CodeSandbox
